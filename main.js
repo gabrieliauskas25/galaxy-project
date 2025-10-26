@@ -1,5 +1,5 @@
 import * as THREE from 'three'
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
+import * as THREE from 'https://cdn.skypack.dev/three';
 
 const scene = new THREE.Scene()
 scene.background = new THREE.Color(0x000010)
